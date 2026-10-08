@@ -1,3 +1,5 @@
+> **Moved.** This package now lives in [mark1russell7/client](https://github.com/mark1russell7/client/tree/main/packages/client-vitest), with its full history. This repository is archived.
+
 # @mark1russell7/client-vitest
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
